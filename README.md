@@ -22,4 +22,11 @@ This repo has information for recreating the [racecar platform][racecarHomepage]
 * Lidar mounting plate
 * Extended front bumper
 
+## Notes
+
+### Networking
+
+* The AC1750 Wifi Dual Band Gigabit Routers have a bug in their firmware where "hardware NAT" mode must be disabled for maximum throughput.
+
+
 [racecarHomepage]: http://racecar.mit.edu/
